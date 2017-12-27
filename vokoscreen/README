@@ -1,0 +1,12 @@
+vokoscreen is an easy to use screencast creator to record educational videos,
+live recordings of browser, installation, videoconferences, etc.
+
+Requires:
+  Qt5 alsa libX11 libv4l2 libv4lconvert
+  libmp3lame0 xdg-utils lsof ffmpeg >= 1.1.0
+  pulseaudio pulsaudio-utils
+
+To check that all external programs are installed,
+please run vokoscreen on the console and control
+the output section "---Begin Search external tools---"
+ 

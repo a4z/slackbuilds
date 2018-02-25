@@ -1,0 +1,4 @@
+ 
+pexpect, capnproto
+
+64 bit, cmake -Ddisable32bit=ON
